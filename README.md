@@ -1,7 +1,10 @@
 # Oi, eu sou o Gustavo 👋
 
-Tenho 18 anos, moro em Jundiaí e trabalho com TI — suporte ao usuário por enquanto, automação de processos é onde quero chegar.
+Técnico de engenharia de testes na Compal e estudante de Engenharia da Computação na USF, em Jundiaí. Uso Python para automatizar processos e criar sistemas que tiram trabalho manual do dia a dia.
 
-🎓 Engenharia da Computação — USF · 3º sem · 🐍 Python · em evolução · 🌎 Inglês C1
+**Projetos**
 
-[Portfólio](https://gustavogurtler.github.io/portfolio) · [LinkedIn](https://linkedin.com/in/gustavo-gurtler1)
+- [Portal de Reservas](https://github.com/GustavoGurtler/projetores-demo): sistema web que substituiu a reserva de projetores em papel e de computadores por e-mail numa escola. [Demo](https://projetores-demo.onrender.com/login)
+- [Gincana Escolar](https://github.com/GustavoGurtler/gincana-escolar): reescrevi em Python o sistema da gincana da escola, que rodava em VB6 desde 2014. [Demo do placar](https://gustavogurtler.github.io/gincana-escolar/)
+
+Inglês C1 · [Portfólio](https://gustavogurtler.github.io/portfolio) · [LinkedIn](https://linkedin.com/in/gustavo-gurtler1)
